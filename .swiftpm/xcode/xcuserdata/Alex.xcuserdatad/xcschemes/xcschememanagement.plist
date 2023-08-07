@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>OSSSpeechKit-Dynamic.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>OSSSpeechKit-Package.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>OSSSpeechKit-Static.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>OSSSpeechKit.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>OSSSpeechKit</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OSSSpeechKit-Dynamic</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OSSSpeechKit-Static</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OSSSpeechKitTests</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>OSSSpeechKit_OSSSpeechKit</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
